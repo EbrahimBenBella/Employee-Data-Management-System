@@ -90,8 +90,7 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 ## Author
 - Ebrahim BenBella
 - This Project is done under Supervision Of Eng. Baraa Abusallout
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/ebrahim-benbella-37b113261)  
 
 
----
+
 
