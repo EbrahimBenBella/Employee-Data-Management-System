@@ -84,15 +84,14 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 ---
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ---
 
 ## Author
-- **Your Name**  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- Ebrahim BenBella
+- This Project done under Supervision Of Eng. Baraa Abusallout
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/ebrahim-benbella-37b113261)  
+
 
 ---
 
